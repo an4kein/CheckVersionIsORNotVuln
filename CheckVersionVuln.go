@@ -24,7 +24,7 @@ func CheckVersionVuln() {
 			fmt.Println("[-] not vulnerable")
 		}
 	case auto == true:
-		fmt.Println("EH falso")
+		fmt.Println("Error or (continue), SEI LAAAAH")
 	}
 
 	return
